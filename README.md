@@ -26,5 +26,5 @@ or automatically increment the version with "npm version patch".
 
 Then publish your package by running
 
-- "npm adduser --registry <our registry domain>"
-- "npm publish --registry <our registry domain>"
+- "npm adduser --registry \<our registry domain\>"
+- "npm publish --registry \<our registry domain\>"
