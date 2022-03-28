@@ -2,9 +2,8 @@
   "name": "npm-react-typescript-template",
   "version": "1.0.0",
   "description": "A template for publishing a React + TypeScript package to npm",
-  "author": "ovieokeh",
   "license": "Apache-2.0",
-  "repository": "ovieokeh/npm-react-typescript-template",
+  "repository": "JS2K8/npm-react-typescript-template",
   "main": "dist/index.js",
   "engines": {
     "node": ">=8",
